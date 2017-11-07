@@ -1,0 +1,10 @@
+$ git config --global user.name "motion2015"
+$ git config --global user.email "moXXXX@naver.com"
+$ echo "# smile" >> README.md
+
+$ git init
+$ git add README.md
+$ git status
+$ git commit -m "my first commit"
+$ git remote add origin https://github.com/motion2015/smile.git
+$ git push -u origin master
