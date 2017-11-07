@@ -8,3 +8,6 @@ $ git status
 $ git commit -m "my first commit"
 $ git remote add origin https://github.com/motion2015/smile.git
 $ git push -u origin master
+
+참고 URL
+https://backlog.com/git-tutorial/kr/
