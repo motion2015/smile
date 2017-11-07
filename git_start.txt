@@ -1,5 +1,5 @@
 $ git config --global user.name "motion2015"
-$ git config --global user.email "motion74@naver.com"
+$ git config --global user.email "moXXXX@naver.com"
 $ echo "# smile" >> README.md
 
 $ git init
