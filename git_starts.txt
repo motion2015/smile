@@ -11,3 +11,5 @@ $ git push -u origin master
 
 참고 URL
 https://backlog.com/git-tutorial/kr/
+
+http://www.typescriptlang.org/play/index.html(Typescript > Play Ground)
